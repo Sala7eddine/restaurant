@@ -142,9 +142,6 @@
   #about {
     height: 80vh;
     background: #f4f4f4;
-    display: flex;
-    justify-content: center;
-    align-items: center;
   }
   
   #about .title,
@@ -169,12 +166,10 @@
     font-weight: 600;
     font-size: 14px;
     color: #757373;
-    margin-left: 55px;
   }
   
   
   #about  p {
-    margin-right: 7rem;
     line-height: 1.6;
     color: #9a9a9a;
     font-weight: 550;
@@ -440,10 +435,7 @@
     #about .about-content p {
       margin-right: 2rem;
     }
-  
-    #about img {
-      width: 250px;
-    }
+
   
     #offers .offers-items img {
       width: 150px;
@@ -480,17 +472,11 @@
         font-size: 14px;
       }
   
-      #about .about-content {
-        flex-direction: column;
-      }
   
       #about .about-content a {
         margin: 2rem 0;
       }
   
-      #about img {
-        display: none;
-      }
   
       #offers {
         height: auto;
