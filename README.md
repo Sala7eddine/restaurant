@@ -18,6 +18,8 @@ https://food-lover1.netlify.app/
 
 ## Screenshots.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d1f500e3-04e1-45f6-bbd5-e4af6720e4ea/deploy-status)](https://app.netlify.com/sites/food-lover1/deploys)
+
 ![foody2](https://user-images.githubusercontent.com/71552773/205292467-c0c82227-eb98-4f2c-ad01-6ac64232dac4.PNG)
 
 ![foody](https://user-images.githubusercontent.com/71552773/205292439-432dc63d-d6a9-4f1b-aacb-b72d10f80151.PNG)
