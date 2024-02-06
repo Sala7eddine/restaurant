@@ -140,10 +140,16 @@
   
   
   #about {
-    height: 80vh;
+    height: 60vh;
     background: #f4f4f4;
   }
-  
+
+  #about h2{
+
+    margin-top: 15px;
+
+  }
+
   #about .title,
   #offers .title,
   #menu .title {
