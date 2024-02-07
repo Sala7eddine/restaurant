@@ -16,8 +16,8 @@ download zip or clone repo (all required files are included)
 https://food-lover1.netlify.app/
 
 ## Screenshots.
-![image](https://github.com/Sala7eddine/restaurant/assets/129235151/8b0f0040-2cf2-4e61-a9f0-591315120574)
+![image](https://github.com/Sala7eddine/restaurant/assets/129235151/956039c9-3b07-4bfe-a5e5-71482abaa3a7)
 ![image](https://github.com/Sala7eddine/restaurant/assets/129235151/2ebb3ab2-8845-4db1-9571-cd7cd0525c85)
 ![image](https://github.com/Sala7eddine/restaurant/assets/129235151/80521134-8187-42ad-b3a1-abc6f778457c)
-![image](https://github.com/Sala7eddine/restaurant/assets/129235151/f9c62cbe-d28d-47ac-bda9-4c64207a8bfa)
+![image](https://github.com/Sala7eddine/restaurant/assets/129235151/bf6a439e-66cf-450a-af59-4cfc08cee5ac)
 ![image](https://github.com/Sala7eddine/restaurant/assets/129235151/fb4fc758-9c80-4384-b099-7d9d7ebb214f)
