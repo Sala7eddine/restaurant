@@ -416,7 +416,7 @@
     font-size: 15px;
   }
   
-  @media (max-width: 1000px) {
+  @media (max-width: 1024px) {
     #navbar img {
       margin-left: 20px;
     }
@@ -459,15 +459,22 @@
       flex-direction: column;
     }
   
+  
     
-    @media (max-width: 600px) {
+    @media (max-width: 767px) {
       #navbar {
         flex-direction: column;
       }
-  
+     
+
       #navbar img {
         margin-bottom: 20px;
-        margin-top: 4px;
+        margin-right: 10px;
+        margin-top: 10px;
+      }
+
+      #navbar ul{
+        gap: 20px;
       }
   
       header .content h1 {
